@@ -1,0 +1,7 @@
+D:\Users\wojciech.pietrzak\source\repos\CWzLinq\bin\Debug\CWzLinq.exe.config
+D:\Users\wojciech.pietrzak\source\repos\CWzLinq\bin\Debug\CWzLinq.exe
+D:\Users\wojciech.pietrzak\source\repos\CWzLinq\bin\Debug\CWzLinq.pdb
+D:\Users\wojciech.pietrzak\source\repos\CWzLinq\obj\Debug\CWzLinq.csproj.AssemblyReference.cache
+D:\Users\wojciech.pietrzak\source\repos\CWzLinq\obj\Debug\CWzLinq.csproj.CoreCompileInputs.cache
+D:\Users\wojciech.pietrzak\source\repos\CWzLinq\obj\Debug\CWzLinq.exe
+D:\Users\wojciech.pietrzak\source\repos\CWzLinq\obj\Debug\CWzLinq.pdb
